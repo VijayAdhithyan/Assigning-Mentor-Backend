@@ -20,7 +20,7 @@ app.get("/", (req, res) =>
   res.send(`
 <div>
 <p>Assigning Mentor and Students server is running</p>
-<p> To test Post and update - visit Frontend page of the application -  </p>
+<p> To test Post and update - visit Frontend page of the application - https://assigning-mentors.netlify.app/ </p>
 </div>
 `)
 );
